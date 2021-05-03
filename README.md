@@ -15,8 +15,7 @@
 🕵 Take a look at my repositories and let's get in touch!
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@amanpatel-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mars_rajiv)](https://twitter.com/amanpatel1527) 
-[![Facebook Badge](https://img.shields.io/badge/-amanpatel1527-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/amanpatel1527)](https://www.facebook.com/amanpatel1527) 
+
 [![Instagram Badge](https://img.shields.io/badge/-@_.aman.patel__-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.aman.patel__)](https://www.instagram.com/_.aman.patel__) 
 <!--
 [![Stack_Overflow Badge](https://img.shields.io/badge/-@amanpatel1527-F59812?style=flat-square&logo=xda-developers&logoColor=white&link=https://stackoverflow.com/cv/amanpatel1527)](https://stackoverflow.com/users/14265360/rajiv-ranjan-mars) 
