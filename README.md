@@ -17,7 +17,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-amanpatel1527-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanpatel1527/)](https://www.linkedin.com/in/amanpatel1527/) 
 [![Twitter Badge](https://img.shields.io/badge/-@amanpatel-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mars_rajiv)](https://twitter.com/amanpatel1527) 
 [![Facebook Badge](https://img.shields.io/badge/-amanpatel1527-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/amanpatel1527)](https://www.facebook.com/amanpatel1527) 
-[![Instagram Badge](https://img.shields.io/badge/-@amanpatel1527-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/amanpatel1527)](https://www.instagram.com/amanpatel1527) 
+[![Instagram Badge](https://img.shields.io/badge/-@amanpatel1527-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.aman.patel__)](https://www.instagram.com/amanpatel1527) 
 <!--
 [![Stack_Overflow Badge](https://img.shields.io/badge/-@amanpatel1527-F59812?style=flat-square&logo=xda-developers&logoColor=white&link=https://stackoverflow.com/cv/amanpatel1527)](https://stackoverflow.com/users/14265360/rajiv-ranjan-mars) 
 -->
