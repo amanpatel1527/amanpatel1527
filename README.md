@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Problem Solving & Web Devlopment** 
 - 👯 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for help with **web projects and competitive programing**
-- 🥅 2021 Goals: **Contribute more  projects & learn new stacks**
+- 🥅 2023 Goals: **Contribute more  projects & learn new stacks**
 - 💬 Ask me about Anything **either I recall or I learn**
 
 🕵 Take a look at my repositories and let's get in touch!
