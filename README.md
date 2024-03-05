@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 📫 How to reach me: patelpatelaman00@gmail.com
 - ⚡ Fun fact: I'm currently studying B. Tech Computer Science
 
-<a href="https://www.github.com/amanpatel1527" target="_blank" rel="noreferrer"><img
+
 
 
 
